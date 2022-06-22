@@ -1,3 +1,5 @@
+#windows中批量进行重命名文件，可以进行标号
+
 import os
 path=input('请输入文件路径(结尾加上\)：')
 print('path:',path)       
